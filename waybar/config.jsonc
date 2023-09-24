@@ -24,6 +24,7 @@
     "all-outputs": false,
     "on-click": "activate",
     "format": "{icon}",
+    "sort-by-name": false,
     "sort-by-number": true,
     "format-icons": {
       "1": "󰨇",
